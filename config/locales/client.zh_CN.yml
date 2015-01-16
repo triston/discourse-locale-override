@@ -132,8 +132,6 @@ zh_CN:
       not_bookmarked: "你已经阅读过此帖；点此为其添加书签"
       last_read: "这是你阅读过的最后一帖；点此给它加上书签"
       remove: "删除书签"
-    bookmarked:
-      title: "书签"
     topic_count_latest:
       other: "{{count}} 个新的或更新的主题。"
     topic_count_unread:
