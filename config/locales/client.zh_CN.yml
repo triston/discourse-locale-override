@@ -126,6 +126,8 @@ zh_CN:
       topic_count: "主题"
       post_count: "帖子"
       user_count: "用户"
+      contact: "联系"
+      contact_info: "联系信息"
     bookmarks:
       not_logged_in: "抱歉，你需要先登录才能给帖子加书签"
       created: "你已经为此贴添加书签"
